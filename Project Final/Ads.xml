@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/pic1.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/pic2.jpg</ImageUrl>
+  <NavigateUrl>http://www.yahoo.com</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/pic3.jpg</ImageUrl>
+    <NavigateUrl>http://www.facebook.com</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/pic4.jpg</ImageUrl>
+    <NavigateUrl>http://www.gmail.com</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/pic5.jpg</ImageUrl>
+    <NavigateUrl>http://www.twitter.com</NavigateUrl>
+  </Ad>
+</Advertisements>
